@@ -1,6 +1,6 @@
 # Introduction Project #
 
-This was the first project in the Udacity _Front-End Web Developer Nanodegree_. It was a basic one, acting simply as an introduction to the team. Starting from an existing HTML file, we were required to add a CSS
+This was the first project in the Udacity _Front-End Web Developer Nanodegree_. It was a basic one, acting simply as an introduction to the team. Starting from an existing HTML file, we were required to add an external stylesheet.
 
 ## Criteria:
 
